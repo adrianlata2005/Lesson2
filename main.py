@@ -73,3 +73,5 @@ if __name__ == '__main__':
     for tenant in manager.tenants.values():
         print(tenant.name, tenant.apartment, tenant.room, tenant.rent_pln, tenant.deposit_pln, tenant.date_agreement_from, tenant.date_agreement_to)
     
+    for bill in manager.bills.values():
+        print(bill.kwota, bill.data_płatności,bill.wskazanie_typu_rachunku, bill.mieszkanie)

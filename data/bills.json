@@ -1,0 +1,14 @@
+{
+    "Rachunek_do_opłacenia" : {
+        "kwota" : "83427",
+        "data_płatności" : "18-07-2027",
+        "wskazanie_typu_rachunku" : "gotówka",
+        "mieszkanie" : "mieszkanie 70m^2" 
+    },
+    "Rachunek_do_płatności" : {
+        "kwota" : "83427",
+        "data_płatności" : "18-07-2027",
+        "wskazanie_typu_rachunku" : "gotówka",
+        "mieszkanie" : "mieszkanie 70m^2"
+    }
+}
